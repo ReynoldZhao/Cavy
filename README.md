@@ -78,6 +78,7 @@ Cavy is a second-hand books trading platform application based on WeChat Platfor
 
 ## For Users you can Scan the QRcode with WeChat
 
+![](https://github.com/ReynoldZhao/Cavy/raw/master/Cavy/cavyscancode.png)
 ## Here is a video presentation
 
-
+![](https://github.com/ReynoldZhao/Cavy/raw/master/Cavy/Cavy.gif)
