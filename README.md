@@ -6,7 +6,7 @@ Cavy is a second-hand books trading platform application based on WeChat Platfor
 
 ## Features
 
-- Based on WeChat Application Platform, the current WeChatecosystem makes the application easier to use
+- Based on WeChat Application Platform, the current WeChat ecosystem makes the application easier to use
 - Mainly used MySQL and Django frame for the back end part
 - Mainly used Java Script  frame for the front end part
 
@@ -14,7 +14,7 @@ Cavy is a second-hand books trading platform application based on WeChat Platfor
 
 | Name                | Function                                             |
 | ------------------- | ---------------------------------------------------- |
-| images/             | images used in the application                       |
+| images/             | mages used in the application                       |
 | pages/              | Animation materials used while using the application |
 | utils/              | Optimize interface                                   |
 | app.js              | Optimize the implementation of Interface             |
